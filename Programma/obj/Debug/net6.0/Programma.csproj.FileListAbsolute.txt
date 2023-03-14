@@ -1,0 +1,15 @@
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\bin\Debug\net6.0\Programma.exe
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\bin\Debug\net6.0\Programma.deps.json
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\bin\Debug\net6.0\Programma.runtimeconfig.json
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\bin\Debug\net6.0\Programma.dll
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\bin\Debug\net6.0\Programma.pdb
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.csproj.AssemblyReference.cache
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.AssemblyInfoInputs.cache
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.AssemblyInfo.cs
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.csproj.CoreCompileInputs.cache
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.dll
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\refint\Programma.dll
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.pdb
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\Programma.genruntimeconfig.cache
+C:\Users\79044\OneDrive\Рабочий стол\Учеба Громов\FinalProj\Programma\obj\Debug\net6.0\ref\Programma.dll
